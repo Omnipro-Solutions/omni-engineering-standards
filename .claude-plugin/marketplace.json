@@ -2,13 +2,12 @@
   "name": "omni-engineering-standards",
   "description": "Behavioral and workflow guidelines to minimize LLM coding errors and enforce senior-level engineering standards for Omni developer teams.",
   "version": "1.0.0",
-  "author": {
-    "name": "Julián Valdés",
-    "email": "julian.valdes@omni.pro"
+  "owner": {
+    "name": "Omnipro-Solutions"
   },
   "license": "MIT",
   "keywords": ["guidelines", "best-practices", "engineering", "omni", "workflow", "plan-first", "oms", "microservices", "grpc"],
-  "skills": [
+  "plugins": [
     "./skills/omni-engineering-standards",
     "./skills/omni-oms-v3"
   ]
