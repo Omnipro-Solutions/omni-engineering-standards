@@ -7,6 +7,9 @@
     "email": "julian.valdes@omni.pro"
   },
   "license": "MIT",
-  "keywords": ["guidelines", "best-practices", "engineering", "omni", "workflow", "plan-first"],
-  "skills": ["./skills/omni-engineering-standards"]
+  "keywords": ["guidelines", "best-practices", "engineering", "omni", "workflow", "plan-first", "oms", "microservices", "grpc"],
+  "skills": [
+    "./skills/omni-engineering-standards",
+    "./skills/omni-oms-v3"
+  ]
 }
