@@ -35,7 +35,7 @@ This plugin injects behavioral guardrails that push Claude to operate more like 
 ### Option A — Claude Code Plugin (recommended for teams)
 
 ```bash
-/plugin marketplace add omni-pro/omni-engineering-standards
+/plugin marketplace add Omnipro-Solutions/omni-engineering-standards
 ```
 
 ### Option B — Per-project CLAUDE.md
